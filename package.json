@@ -1,0 +1,22 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilDenoyelle/spotify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyrilDenoyelle/spotify/issues"
+  },
+  "homepage": "https://github.com/CyrilDenoyelle/spotify#readme",
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
